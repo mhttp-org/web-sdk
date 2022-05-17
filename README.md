@@ -22,6 +22,11 @@ We have started an early reference implementation of MHTTP on GitHub as an open-
 - [OAuth](https://datatracker.ietf.org/doc/html/rfc6749) - the de facto industry standard protocol for authorization and access delegation
 
 ## Cultural References in Teleportation
-- [Transformers](https://tfwiki.net/wiki/Skywarp_(G1)) - Skywarp is a Transformer endowed with the skills of teleportation
 - [William Shakespeare's 'The Tempest'](https://www.w3.org/Protocols/Specs.html) - Ariel is a spirit in Shakespeare's 'The Tempest' (1610 - 1611), capable of weather control and teleportation
+![](https://upload.wikimedia.org/wikipedia/commons/6/6a/William_Hamilton_Prospero_and_Ariel.jpg)
+- [Goku](https://dragonball.fandom.com/wiki/Instant_Transmission) - Goku in Dragon Ball calls his teleportation technique しゅんかんいどう (Japanese for "instant transmission")
+![](https://live.staticflickr.com/4085/5069151767_e842182cb1_k.jpg) (src: flickr @zaffi)
+- [Transformers](https://tfwiki.net/wiki/Skywarp_(G1)) - Skywarp is a Transformer endowed with the skills of teleportation
 - [Marvel](https://www.cbr.com/marvel-comics-best-teleporters/) - some of the major Marvel comic characters who can teleport
+
+https://live.staticflickr.com/4085/5069151767_e842182cb1_k.jpg
