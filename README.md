@@ -15,4 +15,13 @@ Portal.js is a JavaScript client library for MHTTP for Web VR/AR/XR and Web deve
 ## Stayed Tuned - Release Date in early Q3, 2022
 We have started an early reference implementation of MHTTP on GitHub as an open-source project under MIT license. We plan for an initial release in early Q3, 2022. Join our movement today - your contribution in usage, code, ideas or feedback is highly instrumental towards realizing an open and connected Metaverse together. 
 
-## Inspirations and Conceptual References for Teleportation
+## Early Technical Inspirations for Teleportation
+- [HTTP](https://www.w3.org/Protocols/Specs.html) - the Web's most important protocol for navigating from one site to another that made the Web what it is today
+- [Time Sharing of Computers and Context Switching](https://archive.org/details/large-fast-computers) - Christopher Strachey's original 1959 paper on how multiple applications can run on one computer at the same time and how to context switch between applications
+- [Reminiscences on the Theory of Time-Sharing](http://jmc.stanford.edu/computing-science/timesharing.html) - John McCarthy reflects on Strachey's work and his own work on time-sharing
+- [OAuth](https://datatracker.ietf.org/doc/html/rfc6749) - the de facto industry standard protocol for authorization and access delegation
+
+## Cultural References in Teleportation
+- [Transformers](https://tfwiki.net/wiki/Skywarp_(G1)) - Skywarp is a Transformer endowed with the skills of teleportation
+- [William Shakespeare's 'The Tempest'](https://www.w3.org/Protocols/Specs.html) - Ariel is a spirit in Shakespeare's 'The Tempest' (1610 - 1611), capable of weather control and teleportation
+- [Marvel](https://www.cbr.com/marvel-comics-best-teleporters/) - some of the major Marvel comic characters who can teleport
