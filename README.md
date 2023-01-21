@@ -57,3 +57,32 @@ We have started an early reference implementation of MHTTP on GitHub as an open-
 - [Transformers Teleporters](https://tfwiki.net/wiki/Skywarp_(G1)) - Skywarp is a Transformer endowed with the skills of teleportation
 
 - [Marvel Teleporters](https://www.cbr.com/marvel-comics-best-teleporters/) - some of the major Marvel comic characters who can teleport
+
+
+<!-- Licenses - this Readme is forked and adapted based on the following projects -->
+
+<!-- 
+A-Frame
+
+The MIT License
+
+Copyright © 2015-2017 A-Frame authors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
