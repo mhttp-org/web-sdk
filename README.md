@@ -3,9 +3,6 @@
 <p align="center"><a href="https://aframe.io" target="_blank"><img width="480" alt="A-Frame" src="https://camo.githubusercontent.com/670ad75c9dedd1a23c3881caadc3981da8be70fcfbff913487a29f75b8792387/68747470733a2f2f6d687474702e6f72672f7374617469632f636974795f696c6c757374726174696f6e2d33373666366433343531363865623463653032386363623231343639366435612e6a7067"></a></p>
 
 <p align="center"><b> A web framework for building and using teleportation portals.</b></p>
-![image](https://user-images.githubusercontent.com/2160521/213842433-86d6752e-03ea-4377-aa87-9d5b855f5a08.png)
-
-
 
 # portal-js
 JavaScript client library for MHTTP
