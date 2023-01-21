@@ -2,8 +2,8 @@
 
 <p align="center"><a href="https://mhttp.org" target="_blank"><img width="640" alt="MHTTP portal" src="https://camo.githubusercontent.com/670ad75c9dedd1a23c3881caadc3981da8be70fcfbff913487a29f75b8792387/68747470733a2f2f6d687474702e6f72672f7374617469632f636974795f696c6c757374726174696f6e2d33373666366433343531363865623463653032386363623231343639366435612e6a7067"></a></p>
 
-<p align="center"><b> A web framework for building and using teleportation portals, according to the MHTTP open standard.</b>
-<img src=" https://img.shields.io/static/v1?label=License&message=MIT&color=green" alt="MIT License">
+<p align="center"><h3>A web framework for building and using teleportation portals, according to the MHTTP open standard.</h3>
+<img src="https://img.shields.io/static/v1?label=License&message=MIT&color=green" alt="MIT License">
 </p>
 
 <div align="center">
